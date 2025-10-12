@@ -1,2 +1,2 @@
 # createQuarto_website
-MDAG workshop to create an academic website
+This is a work in progress and not ready for direct application.
