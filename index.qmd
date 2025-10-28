@@ -3,7 +3,9 @@ title: "Initial Surname"
 comments: false
 image: profile.png
 about:
-  template: trestles
+  id: hero-heading
+  template: jolla
+  image: profile.png
   image-width: 15em
   image-shape: round
   links:
@@ -19,7 +21,7 @@ about:
       href: https://www.linkedin.com/
 ---
 
-::: {#background}
+::: {#hero-heading}
 
 Initial Surname is from the well-known establishment of the University of Academia in the land of Statistics.
 

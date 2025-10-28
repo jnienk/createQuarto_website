@@ -4,9 +4,9 @@ project:
   resources: files
 
 website:
-  title: "Johané Nienkemper-Swanepoel"
+  title: "Name Surname"
   favicon: logo.png
-  site-url: https://github.com/jnienk/jns-quarto
+  #site-url: https://github.com/jnienk/jns-quarto
   navbar:
     background: primary
     search: true
@@ -17,8 +17,10 @@ website:
         href: education.qmd
       - text: Talks
         href: talks.qmd  
-      - text: Publications
-        href: publications.qmd  
+      - text: Blog posts
+        href: blog.qmd
+      #- text: Publications
+      #  href: publications.qmd  
     right:
       - icon: github
         href: https://github.com/      

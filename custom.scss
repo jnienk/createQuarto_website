@@ -1,14 +1,14 @@
 /*-- scss:defaults --*/
-$bs-blue: #5a3e79 !default;
-$bs-pagination-active-bg: $bs-blue !default;
-$bs-primary: $bs-blue !default;
-$bs-btn-hover-bg: $bs-blue !default;
+$bs-purple_mdag: #3b4569 !default;
+$bs-pagination-active-bg: $bs-purple_mdag !default;
+$bs-primary: $bs-purple_mdag !default;
+$bs-btn-hover-bg: $bs-purple_mdag !default;
 $fa-font-path: '../webfonts';
 
 /*-- scss:rules --*/
 
 .navbar {
-  background-color: $bs-blue;
+  background-color: $bs-purple_mdag;
   color: #A76286;
 }
 
@@ -19,8 +19,8 @@ $fa-font-path: '../webfonts';
 
 .btn-primary {
     color: #fff;
-    background-color: $bs-blue;
-    border-color: $bs-blue;
+    background-color: $bs-purple_mdag;
+    border-color: $bs-purple_mdag;
 }
 
 
@@ -28,27 +28,27 @@ $fa-font-path: '../webfonts';
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: $bs-blue;
-    border-color: $bs-blue;
+    background-color: $bs-purple_mdag;
+    border-color: $bs-purple_mdag;
 }
 
 .quarto-title-banner {
     margin-bottom: 1em;
     color: rgba(255,255,255,.7);
-    background: $bs-blue;
+    background: $bs-purple_mdag;
 }
 
 
 .page-link {
-      color: $bs-blue;
+      color: $bs-purple_mdag;
 }
 
 
 .page-link:hover {
     z-index: 2;
     color: #fff;
-    background-color: $bs-blue;
-    border-color: $bs-blue;
+    background-color: $bs-purple_mdag;
+    border-color: $bs-purple_mdag;
 }
 
 a {
@@ -57,12 +57,12 @@ a {
 }
 
 b, strong {
-    color: $bs-blue;
+    color: $bs-purple_mdag;
     font-weight: bolder;
 }
 
 div.quarto-post .listing-categories .listing-category {
-    color: $bs-blue;
+    color: $bs-purple_mdag;
     border: solid 1px var(--bs-gray-400);
     font-size: .8em;
 }
